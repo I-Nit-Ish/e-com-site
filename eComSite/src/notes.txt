@@ -1,0 +1,83 @@
+remove search from navbar? change pos
+boostrap classes like ml auto, mr auto to move to left or right
+
+ <form class="d-flex" role="search">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-success" type="submit">Search</button>
+      </form>
+      
+ classes of ul of login, 
+ ?aria current=page
+ 
+ <%@include file="components/common_css_js.jsp" %>
+ style=background-color:#ccff90
+ 
+ 
+ navbar class= bg-body-tertiary
+ 
+color=#ccff90
+ #efebe9 
+ error
+ jsp page, javax/ jakarta build path
+ import/ include css file, path
+ 
+ navbar font color
+ 
+ registeration page alignment border etc
+ 
+ 
+ remove from library, then rt click on src/main/java build path, click class path & module path & add library, chose jre version
+ 
+   <!-- https://mvnrepository.com/artifact/org.hibernate.orm/hibernate-core -->
+<dependency>
+    <groupId>org.hibernate.orm</groupId>
+    <artifactId>hibernate-core</artifactId>
+    <version>6.4.2.Final</version>
+</dependency>
+
+sys hib version 3.6.10.Final
+
+
+ <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.13.1</version>
+      <scope>test</scope>
+    </dependency>
+    
+   <!-- https://mvnrepository.com/artifact/jakarta.servlet/jakarta.servlet-api -->
+<dependency>
+    <groupId>jakarta.servlet</groupId>
+    <artifactId>jakarta.servlet-api</artifactId>
+    <version>6.0.0</version>
+    <scope>provided</scope>
+</dependency>
+
+not needed, error in jsp page fixed by changing to dynamic web version 5 to 4 in project fascets 
+cut all jsp code & paste again to see if error goes away
+
+?why does change in css take time to show up?
+
+id of category list in admin.jsp?
+
+C:\Users\HP\eclipse-workspace3\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\eComSite\img\products
+
+Failed to deleted temporary file used for part [pPic]
+
+ <button class="btn btn-primary">&#8377;<%=p.getPriceAfterDiscount() %> /-<span class="text-secondary discount-label">&#8377;<%=p.getpPrice()%> <%=p.getpDiscount()%>% off</span></button>
+ 
+ where is favicon used? &#47;favicon.ico / symbol used somehwere? from font awesome?
+ 
+ includ elink in js? order of script tag in common_css?
+ 
+ Uncaught (in promise) Error: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received
+ 
+ 
+ 
+ //////////////
+ 
+ 
+ save order details in database, 
+ set status of order as not paid, redirect to payment gateway
+ when payment done, change status to paid, clear checkout panel
+ 

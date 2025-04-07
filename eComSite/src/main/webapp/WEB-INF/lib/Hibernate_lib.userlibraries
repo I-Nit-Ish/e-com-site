@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eclipse-userlibraries version="2">
+    <library name="Hibernate_lib" systemlibrary="false">
+        <archive path="C:/Program Files (x86)/MySQL/mysql-connector-j-8.0.32.jar"/>
+        <archive path="D:/Hibernate software/hibernate-distribution-3.6.10.Final/hibernate3.jar"/>
+        <archive path="D:/Hibernate software/hibernate-distribution-3.6.10.Final/lib/jpa/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+        <archive path="D:/Hibernate software/hibernate-distribution-3.6.10.Final/lib/required/antlr-2.7.6.jar"/>
+        <archive path="D:/Hibernate software/hibernate-distribution-3.6.10.Final/lib/required/commons-collections-3.1.jar"/>
+        <archive path="D:/Hibernate software/hibernate-distribution-3.6.10.Final/lib/required/dom4j-1.6.1.jar"/>
+        <archive path="D:/Hibernate software/hibernate-distribution-3.6.10.Final/lib/required/javassist-3.12.0.GA.jar"/>
+        <archive path="D:/Hibernate software/hibernate-distribution-3.6.10.Final/lib/required/jta-1.1.jar"/>
+        <archive path="D:/Hibernate software/hibernate-distribution-3.6.10.Final/lib/required/slf4j-api-1.6.1.jar"/>
+    </library>
+</eclipse-userlibraries>
