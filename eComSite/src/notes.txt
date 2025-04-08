@@ -81,3 +81,5 @@ Failed to deleted temporary file used for part [pPic]
  set status of order as not paid, redirect to payment gateway
  when payment done, change status to paid, clear checkout panel
  
+ git changes
+ 
